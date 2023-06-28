@@ -2,8 +2,8 @@
 ## Eid_II: Primary celebration, Scale: Major impact, Category: Religion, Emotional range: Highly sensitive, Invitation to attention & attend my home: Open for all, Vocal pitch: Minor chord, Dress: Festive and cheerful 
 
 RASHADUL ISLAM ross
-   - * B.Sc. in Computer Science, CA
-B.Sc. in Computer Engineering, BD *
+   - * B.Sc. in Computer Science, CA *
+   - * B.Sc. in Computer Engineering, BD *
 
         - * Specialization: Computer System, Software Engineering *
 
@@ -16,10 +16,10 @@ B.Sc. in Computer Engineering, BD *
 
 > L'Eid est en vous! Tout et bon si vous en faites une grandeur sensible et attentive. Joyeuses fêtes et fêtes à vous, à vos amis et à votre famille, tant chez vous qu'à l'étranger.
 
-## Those who miss me
-![alt text](https://drive.google.com/file/d/1guk1mt4ThZyszPhRAaacDGtkF8Hy1bRX/view?usp=drivesdk)
+# Those who miss me: it says all
+![Pixels](img_2_1687960547281.jpg)
 
-## Reach me
+# Reach me
 | Title      | Location |  Availability     |
 | :---        |    :----:   |          ---: |
 | Webex      | rashadul.cse@gmail.com       | Always   |
@@ -27,4 +27,6 @@ B.Sc. in Computer Engineering, BD *
 | Cell  | +880 171 411 8395        |  11PM to 11AM EDT      |
 | Venue  | 25.7376062, 89.2598786        |  Always      |
 
+```
 Thank you!
+```
