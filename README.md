@@ -38,7 +38,8 @@ RASHADUL ISLAM ross</summary>
   <details>
   <summary>Expertise</summary>
     
-    + Enterprise System or Software Design and Development
+    + Enterprise inauguration and expansion
+    + System or Software Design and Development
     + A.I. & devOP
     + Consulting
     + Business Intelligence and Big Data
@@ -51,8 +52,7 @@ RASHADUL ISLAM ross</summary>
 
     
     </details>
-            
-</details>
+          
 
 <details>
   <summary> Greeting</summary>
