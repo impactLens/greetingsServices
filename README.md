@@ -1,7 +1,8 @@
 <details>
   <summary>Eid II Wishes</summary>
   
-# greetingsServices
+<details>
+  <summary> greetingsServices</summary></details>details>
 
 ## Eid_II: Primary celebration and festival
 
