@@ -2,7 +2,7 @@
   <summary>Eid II Wishes</summary>
   
 <details>
-  <summary> greetingsServices</summary>
+  <summary> EXPAND TOWARDS GREETINGS</summary>
   
 <details>
   <summary>Eid_II: Primary celebration and festival</summary>
@@ -35,9 +35,18 @@ RASHADUL ISLAM ross</summary>
   <details>
   <summary>Expertise</summary>
     
-    '''
-    Enterprise System or Software Design and Development, A.I., Consulting, Business Intelligence and Big Data, Liaison, Country Lead and university speech giving and so much in corporates, social responsibility & STEM charity
-    '''
+    + Enterprise System or Software Design and Development
+    + A.I. & devOP
+    + Consulting
+    + Business Intelligence and Big Data
+    + Liaison
+    + Country Lead 
+    + University speech giving 
+    + So much in corporates, social responsibility 
+    + STEM community development 
+    + Charity
+
+    
     </details>
             
 </details>
