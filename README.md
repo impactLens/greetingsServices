@@ -18,14 +18,27 @@
 <details>
   <summary>
 RASHADUL ISLAM ross</summary>
+  
    - * B.Sc. in Computer Science, CA *
    - * B.Sc. in Computer Engineering, BD *
-
-        <details>
-  <summary>Specialization</summary> Computer System, Software Engineering </details>
+       
+</details>
+ 
+  <details>
+  <summary>Specialization</summary> 
+    
+  + Computer System & Software 
+  + Software Engineering
+    
+  </details>
 
   <details>
-  <summary>Expertise</summary>Enterprise System or Software Design and Development, A.I., Consulting, Business Intelligence and Big Data, Liaison, Country Lead and university speech giving and so much in corporates, social responsibility & STEM charity </details>
+  <summary>Expertise</summary>
+    
+    '''
+    Enterprise System or Software Design and Development, A.I., Consulting, Business Intelligence and Big Data, Liaison, Country Lead and university speech giving and so much in corporates, social responsibility & STEM charity
+    '''
+    </details>
             
 </details>
 
