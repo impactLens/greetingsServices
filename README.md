@@ -1,5 +1,19 @@
 # greetingsServices
-## Eid_II: Primary celebration, Scale: Major impact, Category: Religion, Emotional range: Highly sensitive, Invitation to attention & attend my home: Open for all, Vocal pitch: Minor chord, Dress: Festive and cheerful 
+## Eid_II: Primary celebration and festival 
+```
+:::Scale:
+Major impact
+> Category: Religion
+> Emotional range: Highly sensitive
+> Invitation to attention & attend my home: Open for all
+> Vocal pitch: Minor chord
+> Dress: Festive and cheerful but nevermind
+:::
+.. pull-quote::
+      **Warning**
+      
+      **NB:** Something to be aware of
+```
 
 RASHADUL ISLAM ross
    - * B.Sc. in Computer Science, CA *
