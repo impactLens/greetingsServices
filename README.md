@@ -48,7 +48,7 @@ RASHADUL ISLAM ross</summary>
     + University speech giving 
     + So much in corporates, social responsibility 
     + STEM community development 
-    + Chari
+    + Charity 
     
     
           
