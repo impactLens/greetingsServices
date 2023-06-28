@@ -1,19 +1,15 @@
 # greetingsServices
-## Eid_II: Primary celebration and festival 
 
-:::Scale:
-Major impact
-> Category: Religion
-> Emotional range: Highly sensitive
-> Invitation to attention & attend my home: Open for all
-> Vocal pitch: Minor chord
-> Dress: Festive and cheerful but nevermind
-:::
-.. pull-quote::
-      **Warning**
-      
-      **NB:** Something to be aware of
+## Eid_II: Primary celebration and festival
 
+'''
+- [ ]  Scale: Major impact
+- [ ]  Category: Religion
+- [ ]  Emotional range: Highly sensitive
+- [ ]  Invitation at my home: Open for all
+- [ ]  Vocal pitch: Minor chord
+- [ ]  Dress: Festive and cheerful but nevermind
+'''
 
 RASHADUL ISLAM ross
    - * B.Sc. in Computer Science, CA *
@@ -30,17 +26,18 @@ RASHADUL ISLAM ross
 
 > L'Eid est en vous! Tout et bon si vous en faites une grandeur sensible et attentive. Joyeuses fêtes et fêtes à vous, à vos amis et à votre famille, tant chez vous qu'à l'étranger.
 
-# Those who miss me: it says all
+# Those who miss me: here says all
 ![Pixels](img_2_1687960547281.jpg)
 
 # Reach me
 | Title      | Location |  Availability     |
 | :---        |    :----:   |          ---: |
 | Webex      | rashadul.cse@gmail.com       | Always   |
+| Postbox      | Outlook: itsme.rashadul       | Always   |
 | SMS/Page  | +880 171 411 8395        |  Always      |
 | Cell  | +880 171 411 8395        |  11PM to 11AM EDT      |
 | Venue  | 25.7376062, 89.2598786        |  Always      |
 
 ```
-Thank you!
+**Thank you!**
 ```
