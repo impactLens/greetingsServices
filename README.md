@@ -1,6 +1,6 @@
 # greetingsServices
 ## Eid_II: Primary celebration and festival 
-```
+
 :::Scale:
 Major impact
 > Category: Religion
@@ -13,7 +13,7 @@ Major impact
       **Warning**
       
       **NB:** Something to be aware of
-```
+
 
 RASHADUL ISLAM ross
    - * B.Sc. in Computer Science, CA *
