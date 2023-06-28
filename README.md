@@ -1,15 +1,16 @@
+<details>
+  <summary>Eid II Wishes</summary>
+  
 # greetingsServices
 
 ## Eid_II: Primary celebration and festival
 
-'''
 - [ ]  Scale: Major impact
 - [ ]  Category: Religion
 - [ ]  Emotional range: Highly sensitive
 - [ ]  Invitation at my home: Open for all
 - [ ]  Vocal pitch: Minor chord
 - [ ]  Dress: Festive and cheerful but nevermind
-'''
 
 RASHADUL ISLAM ross
    - * B.Sc. in Computer Science, CA *
@@ -32,7 +33,7 @@ RASHADUL ISLAM ross
 # Reach me
 | Title      | Location |  Availability     |
 | :---        |    :----:   |          ---: |
-| Webex      | rashadul.cse@gmail.com       | Always   |
+| Webex      | Gmail: rashadul.cse       | Always   |
 | Postbox      | Outlook: itsme.rashadul       | Always   |
 | SMS/Page  | +880 171 411 8395        |  Always      |
 | Cell  | +880 171 411 8395        |  11PM to 11AM EDT      |
@@ -41,3 +42,4 @@ RASHADUL ISLAM ross
 ```
 **Thank you!**
 ```
+</details>
