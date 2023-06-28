@@ -18,9 +18,12 @@
 <details>
   <summary>
 RASHADUL ISLAM ross</summary>
-  
-   - * B.Sc. in Computer Science, CA *
-   - * B.Sc. in Computer Engineering, BD *
+
+  <details>
+  <summary>Got here</summary>
+    
+    * B.Sc. in Computer Science, CA 
+    * B.Sc. in Computer Engineering, BD 
        
 </details>
  
