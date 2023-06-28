@@ -12,7 +12,7 @@
 - [ ]  Emotional range: Highly sensitive
 - [ ]  Invitation at my home: Open for all
 - [ ]  Vocal pitch: Minor chord
-- [ ]  Dress: Festive and cheerful but nevermind
+- [ ]  Dress: Festive and cheerful but nevermin
 </details>
 
 <details>
@@ -48,12 +48,12 @@ RASHADUL ISLAM ross</summary>
     + University speech giving 
     + So much in corporates, social responsibility 
     + STEM community development 
-    + Charity
-
+    + Chari
     
-    </details>
-          </details>
+    
+          
 </details>
+
 <details>
   <summary> Greeting</summary>
   
