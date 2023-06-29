@@ -1,4 +1,4 @@
-<video src="https://github.com/impactLens/greetingsServices/blob/main/greet_eidII2023.aiff"></video>
+<video src="https://github.com/impactLens/greetingsServices/blob/main/greet_eidII2023.aiff">Greeting</video>
 
 <details>
   <summary>Eid II Wishes</summary>
