@@ -79,9 +79,9 @@ RASHADUL ISLAM ross</summary>
 | :---        |    :----:   |          ---: |
 | Webex      | Gmail: rashadul.cse       | Always   |
 | Postbox      | Outlook: itsme.rashadul       | Always   |
-| SMS/Page  | +880 171 411 8395        |  Always      |
-| Cell  | +880 171 411 8395        |  11PM to 11AM EDT      |
-| Venue  | 25.7376062, 89.2598786        |  Always      |
+| SMS/Page  | +HH0 AHDA GO ROSS        |  Always      |
+| Cell  | +HH0 AGA DAA HCIE        |  11PM to 11AM EDT      |
+| Venue  | BE.7376062, HI.2598786        |  Always      |
 
 </details>
 
