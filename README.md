@@ -1,4 +1,4 @@
-<video width="180" height="100" controls preload> 
+<video width="50%" height="10" controls preload> 
     <source src="greet_eidII2023.mp4"></source>
 </video>
 
