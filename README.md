@@ -1,4 +1,6 @@
-<video src="https://github.com/impactLens/greetingsServices/blob/main/greet_eidII2023.aiff">Greeting</video>
+<video width="320" height="200" controls preload> 
+    <source src="greet_eidII2023.aiff"></source>
+</video>
 
 <details>
   <summary>Eid II Wishes</summary>
