@@ -3,9 +3,12 @@
 
 <details>
 <summary> EXPAND TOWARDS GREETINGS</summary>
-
+  ```
+  Privileged to see your presence here!
+  ```
+  
 <details>
-        <summary>Eid_II: Primary celebration and festival</summary>
+        <summary>Eid_II Checklist: Primary celebration and festival</summary>
 
    - [ ]  Scale: Major impact
    - [ ]  Category: Religion
