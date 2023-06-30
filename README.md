@@ -10,7 +10,10 @@
   
 <details>
         <summary>Eid_II Checklist: Primary celebration and festival</summary>
-
+  ```
+  CHECKLIST:
+  ```
+  
    - [ ]  Scale: Major impact
    - [ ]  Category: Religion
    - [ ]  Emotional range: Highly sensitive
@@ -23,7 +26,9 @@
 <details>
         <summary>
         RASHADUL ISLAM ross</summary>
-
+```
+BRIEF ABOUT ME:
+```
 <details>
             <summary>Developed by</summary>
 
@@ -60,9 +65,20 @@
 <details>
         <summary> Greeting</summary>
 
+  ```
+  English v0.01:
+  ```
    > Eid is in you! Everything senses great if you make it sensible and attentive greatness. Happy holidays & feast to you and your f&f both at home and abroad.
+  
+  ```
+  Bengla v0.01:
+  ```
 
    > ঈদ আপনার মাঝেই! আপনি সর্বজনীন অবহিত ও স্বীকৃত বৈশিষ্ট্য অনুভূতিতে থাকলে, সবাই ভাল থাকবে। দেশে ও বিদেশে আপনার সবাইকে ও আপনাকে কাজের ছুটির আন্তরিক শুভেচ্ছা।
+
+  ```
+  French v0.01 :
+  ```
 
    > L'Eid est en vous! Tout et bon si vous en faites une grandeur sensible et attentive. Joyeuses fêtes et fêtes à vous, à vos amis et à votre famille, tant chez vous qu'à l'étranger.
 
