@@ -3,6 +3,7 @@
 
 <details>
 <summary> EXPAND TOWARDS GREETINGS</summary>
+  
   ```
   Privileged to see your presence here!
   ```
