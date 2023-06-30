@@ -10,8 +10,9 @@
   
 <details>
         <summary>Eid_II Checklist: Primary celebration and festival</summary>
+  
   ```
-  CHECKLIST:
+  Your checklist:
   ```
   
    - [ ]  Scale: Major impact
@@ -26,9 +27,10 @@
 <details>
         <summary>
         RASHADUL ISLAM ross</summary>
-```
-BRIEF ABOUT ME:
-```
+
+  ```
+  Brief:
+  ```
 <details>
             <summary>Developed by</summary>
 
@@ -82,10 +84,20 @@ BRIEF ABOUT ME:
 
    > L'Eid est en vous! Tout et bon si vous en faites une grandeur sensible et attentive. Joyeuses fêtes et fêtes à vous, à vos amis et à votre famille, tant chez vous qu'à l'étranger.
 
+
+  ```
+  Please, find the audio version of greeting 
+  ```
+
    </details>
 
 <details>
         <summary> Those who miss me: here says all</summary>
+
+
+  ```
+  How am i looking now, what's new?
+  ```
 
    ![Pixels](img_2_1687960547281.jpg)
 
@@ -94,13 +106,18 @@ BRIEF ABOUT ME:
  <details>
    <summary> Reach me</summary>
 
+
+  ```
+  Current AVailability
+  ```
+
    | Title      | Location |  Availability     |
    | :---        |    :----:   |          ---: |
-   | Webex      | Gmail: rashadul.cse       | Always   |
-   | Postbox      | Outlook: itsme.rashadul       | Always   |
-   | SMS/Page  | +HH0 AHDA GO ROSS        |  Always      |
+   | Webex      | Gmail: rashadul.cse       | Invite away   |
+   | Postbox      | Outlook: itsme.rashadul       | Be techsavy   |
+   | SMS/Page  | +HH0 AHDA GO ROSS        |  Love to read this      |
    | Cell  | +HH0 AGA DAA HCIE        |  11PM to 11AM EDT      |
-   | Venue  | BE.7376062, HI.2598786        |  Always      |
+   | Venue  | BE.7376062, HI.2598786        |  Encouraged to attend      |
 
  </details>
 </details>
