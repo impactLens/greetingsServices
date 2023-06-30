@@ -21,7 +21,7 @@
         RASHADUL ISLAM ross</summary>
 
 <details>
-            <summary>Got here</summary>
+            <summary>Developed by</summary>
 
    * B.Sc. in Computer Science, CA
    * B.Sc. in Computer Engineering, BD
@@ -75,12 +75,12 @@
    <summary> Reach me</summary>
 
    | Title      | Location |  Availability     |
-    | :---        |    :----:   |          ---: |
-    | Webex      | Gmail: rashadul.cse       | Always   |
-    | Postbox      | Outlook: itsme.rashadul       | Always   |
-    | SMS/Page  | +HH0 AHDA GO ROSS        |  Always      |
-    | Cell  | +HH0 AGA DAA HCIE        |  11PM to 11AM EDT      |
-    | Venue  | BE.7376062, HI.2598786        |  Always      |
+   | :---        |    :----:   |          ---: |
+   | Webex      | Gmail: rashadul.cse       | Always   |
+   | Postbox      | Outlook: itsme.rashadul       | Always   |
+   | SMS/Page  | +HH0 AHDA GO ROSS        |  Always      |
+   | Cell  | +HH0 AGA DAA HCIE        |  11PM to 11AM EDT      |
+   | Venue  | BE.7376062, HI.2598786        |  Always      |
 
  </details>
 </details>
