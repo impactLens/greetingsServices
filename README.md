@@ -14,7 +14,7 @@
             - [ ]  Vocal pitch: Minor chord
             - [ ]  Dress: Festive and cheerful but nevermin
 
-        </details>
+            </details>
 
         <details>
         <summary>
