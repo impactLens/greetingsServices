@@ -2,14 +2,14 @@
   <summary>Eid II Wishes</summary>
 
 <details>
-<summary> EXPAND TOWARDS GREETINGS</summary>
+<summary> EXPAND GREETINGS</summary>
   
   ```
   Privileged to see your presence here!
   ```
   
 <details>
-        <summary>Eid_II Checklist: Primary celebration and festival</summary>
+        <summary>[ A ] Eid_II Checklist: Primary celebration and festival</summary>
   
   ```
   Your checklist:
@@ -25,27 +25,27 @@
         </details>
 
 <details>
-        <summary>
+        <summary>[ B ] 
         RASHADUL ISLAM ross</summary>
 
   ```
   Brief:
   ```
 <details>
-            <summary>Developed by</summary>
+            <summary>[ B1 ] Developed by</summary>
 
    * B.Sc. in Computer Science, CA
    * B.Sc. in Computer Engineering, BD
 
 <details>
-            <summary>Specialization</summary>
+            <summary>[ B2 ] Specialization</summary>
 
    + Computer System & Software
    + Software Engineering
 
 
 <details>
-            <summary>Expertise</summary>
+            <summary>[ B3 ] Expertise</summary>
 
    + Enterprise inauguration and expansion
    + System or Software Design and Development
@@ -65,7 +65,7 @@
 </details>
 
 <details>
-        <summary> Greeting</summary>
+        <summary> [ C ] Greeting</summary>
 
   ```
   English v0.01:
@@ -86,13 +86,14 @@
 
 
   ```
-  Please, find the audio version of greeting 
+  Please, find the audio version of greeting at [![greet_eidII2023.aiff](https://github.com/impactLens/greetingsServices/blob/main/greet_eidII2023.aiff)](https://github.com/impactLens/greetingsServices/blob/main/greet_eidII2023.aiff)
+
   ```
 
    </details>
 
 <details>
-        <summary> Those who miss me: here says all</summary>
+        <summary> [ D ] Those who miss me: here says all</summary>
 
 
   ```
@@ -104,7 +105,7 @@
    </details>
 
  <details>
-   <summary> Reach me</summary>
+   <summary> [ E ] Reach me</summary>
 
 
   ```
