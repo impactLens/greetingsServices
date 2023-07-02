@@ -85,7 +85,7 @@
    > L'Eid est en vous! Tout et bon si vous en faites une grandeur sensible et attentive. Joyeuses fêtes et fêtes à vous, à vos amis et à votre famille, tant chez vous qu'à l'étranger.
 
 
-  Please, find the audio version of greeting at [![greet_eidII2023.aiff](https://github.com/impactLens/greetingsServices/blob/main/greet_eidII2023.aiff)](https://github.com/impactLens/greetingsServices/blob/main/greet_eidII2023.aiff)
+  Please, find the audio version of greeting at [![greet_eidII2023.aiff](https://soundcloud.app.goo.gl/kZSYP)
 
 
    </details>
