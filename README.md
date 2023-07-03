@@ -85,9 +85,7 @@
    > L'Eid est en vous! Tout et bon si vous en faites une grandeur sensible et attentive. Joyeuses fêtes et fêtes à vous, à vos amis et à votre famille, tant chez vous qu'à l'étranger.
 
 
-  Please, find the audio version of greeting at ![here]{https://soundcloud.app.goo.gl/kZSYP}.
-
-  <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1554867712&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+  Please, find the audio version of greeting at ![here]{waves.html)
 
    </details>
 
